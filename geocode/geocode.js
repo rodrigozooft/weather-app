@@ -28,5 +28,3 @@ var getLocation = (address, callback) => {
 module.exports = {
     getLocation
 }
-
-// https://api.darksky.net/forecast/d921247c4819bf682c80f1e191e9e12e/34.196973,-90.605302
